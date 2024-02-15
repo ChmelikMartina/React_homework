@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cm-portfolio.maweb.eu/react-project/static/css/main.09d9337e.css",
+    "main.js": "/cm-portfolio.maweb.eu/react-project/static/js/main.e921c11c.js",
+    "index.html": "/cm-portfolio.maweb.eu/react-project/index.html",
+    "main.09d9337e.css.map": "/cm-portfolio.maweb.eu/react-project/static/css/main.09d9337e.css.map",
+    "main.e921c11c.js.map": "/cm-portfolio.maweb.eu/react-project/static/js/main.e921c11c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09d9337e.css",
+    "static/js/main.e921c11c.js"
+  ]
+}
