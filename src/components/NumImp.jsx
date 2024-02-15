@@ -11,6 +11,8 @@ function NumImp({ dataIn, label, handleData, id }) {
         {label}
       </label>
       <input
+        min={1}
+        max={4}
         type="number"
         className="form-control"
         value={dataIn}
